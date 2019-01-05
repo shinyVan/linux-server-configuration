@@ -9,7 +9,7 @@ Udacity FSND server configuration project
 1. Access
     * Added separate users with sudo permissions
     * Change SSH port to 2200
-    * Set up SSH keys for each user
+    * Set up SSH keys for each user in /home/[user]/.ssh/authorized_keys
     * Disallow root login and password authentication
 2. Firewall
     * Installed ufw
